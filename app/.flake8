@@ -1,0 +1,5 @@
+[flake8]
+exclude = 
+    __pycashe__,
+    manage.py,
+    settings.py
